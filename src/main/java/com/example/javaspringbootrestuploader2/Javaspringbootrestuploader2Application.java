@@ -8,6 +8,8 @@ public class Javaspringbootrestuploader2Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(Javaspringbootrestuploader2Application.class, args);
+		System.out.println("our app is running...");
+
 	}
 
 }
