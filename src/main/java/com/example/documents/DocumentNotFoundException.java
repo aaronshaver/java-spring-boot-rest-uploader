@@ -1,4 +1,4 @@
-package com.documents;
+package com.example.documents;
 
 public class DocumentNotFoundException extends RuntimeException {
 

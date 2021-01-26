@@ -1,4 +1,4 @@
-package com.documents;
+package com.example.documents;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ControllerAdvice;

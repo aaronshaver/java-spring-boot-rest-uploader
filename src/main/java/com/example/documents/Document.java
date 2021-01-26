@@ -1,9 +1,8 @@
-package com.documents;
+package com.example.documents;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
-import javax.print.Doc;
 import java.util.Objects;
 
 @Entity
